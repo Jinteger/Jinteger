@@ -1,7 +1,7 @@
 {
   "name": "YachaWallet",
   "productName": "YachaWallet",
-  "version": "0.2.0",
+  "version": "0.1.1",
   "description": "Electron interactive API demos",
   "private": true,
   "main": "main.js",
