@@ -60,7 +60,7 @@
       "publish": [
         {
           "bucket": "static.realm.io",
-          "path": "downloads/Jinteger",
+          "path": "Jinteger/Jinteger",
           "provider": "s3",
           "region": "us-east-1"
         },
